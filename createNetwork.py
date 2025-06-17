@@ -55,4 +55,11 @@ def runPyvis():
   triplets = json.load(triplets_file)
   interactive_graph(triplets)
 
-runPyvis()
+# runNetworkx() #uncomment to visualize using networkx
+runPyvis() #creates a html file, "graph.html" open the html file in a web browser to visualize
+
+"""
+  There are two ways to visualize
+  1) networkx
+  2)pyvis
+"""

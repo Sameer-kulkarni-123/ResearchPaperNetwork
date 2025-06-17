@@ -143,10 +143,12 @@ def filterImpRelations():
 
   json.dump(impRelations, output)
 
-# extractEntitiesFromAbstract()
+extractEntitiesFromAbstract()
 # print(extract_abstract_from_pdf("testPdf.pdf"))
-# extractText()
-# getDistinctEntities()
-# preprocessEnts()
+extractText()
+getDistinctEntities()
+preprocessEnts()
 
 filterImpRelations()
+
+""" Run createNetwork.py to visualize the relations """
