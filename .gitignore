@@ -1,1 +1,6 @@
 /.venv
+/outputs
+/lib
+
+graph.html
+test.py
