@@ -32,15 +32,18 @@ def draw_graph(G, figsize=(12, 8)):
 
 
 def interactive_graph(triplets, output_file="graph.html"):
-    net = Network(notebook=False, directed=True)
-    net.force_atlas_2based()
+  net = Network(notebook=False, directed=True)
+  net.force_atlas_2based()
 
-    for subj, obj, rel in triplets:
-        net.add_node(subj, label=subj)
-        net.add_node(obj, label=obj)
-        net.add_edge(subj, obj, label=rel)
+  for subj, obj, rel in triplets:
+      net.add_node(subj, label=subj)
+      net.add_node(obj, label=obj)
+      net.add_edge(subj, obj, label=rel)
 
-    net.show(output_file)
+  # net.save_graph(output_file)
+  html = net.generate_html()
+  with open(output_file, "w", encoding="utf-8") as f:
+      f.write(html)
 
 
 def runNetworkx():
@@ -50,13 +53,20 @@ def runNetworkx():
   draw_graph(G)
 
 
-def runPyvis():
-  triplets_file = open("outputs/imp_sor_list.json", "r")
-  triplets = json.load(triplets_file)
+def runPyvis(triplets):
+  # triplets_file = open("outputs/imp_sor_list.json", "r")
+  # triplets = json.load(triplets_file)
   interactive_graph(triplets)
 
+# def runPyvis():
+#   triplets_file = open("outputs/imp_sor_list.json", "r")
+#   triplets = json.load(triplets_file)
+#   interactive_graph(triplets)
+
+# def showGraph():
+
 # runNetworkx() #uncomment to visualize using networkx
-runPyvis() #creates a html file, "graph.html" open the html file in a web browser to visualize
+# runPyvis() #creates a html file, "graph.html" open the html file in a web browser to visualize
 
 """
   There are two ways to visualize
