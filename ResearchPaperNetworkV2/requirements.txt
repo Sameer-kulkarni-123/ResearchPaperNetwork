@@ -1,0 +1,4 @@
+Streamlit
+PyMuPDF
+nltk
+google-generativeai

@@ -1,0 +1,318 @@
+ Wikimedia Commons  Wikimedia ID  owner of  Wikimedia ID  Wikimedia Commons  owned by
+ recurrent  neural network  subclass of
+ encoder  decoder  opposite of  decoder  encoder  opposite of
+ Transformer  network architecture  instance of
+ two machine translation tasks  machine translation  subclass of
+ WMT 2014  2014  point in time
+ WMT 2014  2014  point in time
+ Transformer  parsing  use
+ Equal contribution  Equality  facet of
+ Listing order  random  facet of
+ self-attention  RNNs  subclass of
+ Transformer  Illia  designed by
+ Noam  parameter-free position representation  notable work  parameter-free position representation  Noam  discoverer or inventor
+ Niki  tensor2tensor  notable work  tensor2tensor  Niki  developer
+ Llion  codebase  instance of
+ tensor2tensor  Lukasz and Aidan  developer
+ Google Brain  Google  owned by  Google  Google Brain  subsidiary
+ Long Beach  USA  country  CA  USA  country  USA  CA  contains administrative territorial entity
+ 1706  1706  point in time
+ gated recurrent  Recurrent neural network  subclass of
+ encoder-decoder  recurrent language model  part of
+ Recurrent model  factor computation  subclass of
+ hiddenstates  hidden state ht−1  has part  hidden state ht−1  hiddenstates  part of
+ factorization tricks  computational efficiency  subclass of
+ fundamentalconstraint  sequential computation  facet of
+ transduc-裸tion  sequence modeling  subclass of
+ recurrent network  attention mechanism  subclass of
+ Transformer  model architecture  instance of
+ P100  GPUs  subclass of
+ ByteNet  convolutional neural network  uses  ConvS2S  convolutional neural network  uses  convolutional neural network  ByteNet  used by  ConvS2S  used by
+ linearly  logarithmically  follows  logarithmically  linearly  followed by
+ dependencies  learn  subclass of
+ Multi-Head Attention  Transformer  part of
+ Self-attention  attention  subclass of
+ task-independent sentence representation  learning  subclass of
+ recurrent attention mechanism  sequence-aligned recurrence  opposite of  sequence-aligned recurrence  recurrent attention mechanism  opposite of
+ convolution  RNN  different from
+ [17  18  followed by
+ encoder-decoder structure  neural sequence transduction  facet of
+ continuous representation  symbol representation  subclass of
+ outputsequence  symbols  has part
+ auto-regressive  model  subclass of
+ The Transformer  model architecture  instance of
+ Transformer  encoder  has part  decoder  has part  encoder  Transformer  part of  decoder  Transformer  part of
+ 1=-=-=-=-=-=-=-=-Encoder and Decoder Stacks  stack  instance of
+ sub-layer  layer  subclass of
+ feed-forward network  self-attention mechanism  subclass of
+ residual connection  layer normalization  followed by  layer normalization  residual connection  follows
+ Sublayer(x)  Sublayer(x)  has part  Sublayer(x)  has part  Sublayer(x)  Sublayer(x)  part of  Sublayer(x)  part of  Sublayer(x)  Sublayer(x)  part of  Sublayer(x)  part of
+ embedding  sub-layer  subclass of
+ stack  layers  has part  layers  stack  part of
+ sub-layer  stack  part of  stack  sub-layer  has part
+ encoder  residual connection  uses  layer normalization  uses  residual connection  encoder  used by  layer normalization  encoder  used by
+ self-attentionsub-layer  decoder stack  part of  decoder stack  self-attentionsub-layer  has part
+ 2ߎmasking  attention function  facet of
+ Scaled Dot-Product Attention  Attention  subclass of  Attention  subclass of  Attention  subclass of  Scaled Dot-Product Attention  Attention  subclass of  Attention  subclass of  Attention  subclass of  Attention  Attention  subclass of  Attention  subclass of  Attention  subclass of  Attention  Attention  subclass of  Attention  subclass of  Attention  subclass of
+ compatibility function  weight  subclass of
+ Scaled Dot-Product Attention  particular attention  subclass of  Scaled Dot-Product Attention  particular attention  subclass of
+ dk  dimension  instance of  dv  dimension  instance of
+ softmax  weights  subclass of
+ Q  matrices  instance of  K  matrices  instance of  V  matrices  instance of
+ additive attention  attention function  subclass of  dot-product  attention function  subclass of
+ Dot-product attention  algorithm  instance of
+ feed-forward network  hidden layer  subclass of
+ highly optimized  multiplication code  subclass of
+ additive attention  product attention  opposite of  product attention  additive attention  opposite of
+ softmax  function  instance of
+ kdk  scale  instance of
+ dmodel  dk  has part  dk  has part  dv  has part  dk  dmodel  part of  dk  dmodel  part of  dv  dmodel  part of
+ randomvariables  variance  subclass of
+ Pdk  qiki  has part  qiki  Pdk  part of
+ απ4  outputs  instance of
+ Figure 2  projected  depicts
+ Multi-head attention  attend to information  subclass of
+ attention head  averaging  opposite of  averaging  attention head  opposite of
+ Concat(head1, ..., headh)  ParametricMultiHead(Q,K,V)  has part
+ heads  attention layer  subclass of
+ dmodel  dv  has part
+ single-head attention with full dimensionality  computational cost  subclass of
+ encoder-decoder attention  multi-head attention  subclass of
+ decoder  input sequence  uses  input sequence  decoder  used by
+ encoder-decoder  attention mechanisms  subclass of
+ self-attention layer  encoder  subclass of
+ self-attention layer  ~/.encoder  part of  ~/.encoder  self-attention layer  has part
+ position  layer  part of  layer  position  has part
+ self-attention layer  decoder  part of  decoder  self-attention layer  has part
+ decoder  information flow  subclass of
+ scaled dot-product attention  softmax  has part  softmax  scaled dot-product attention  part of
+ Figure 2  Figure  instance of
+ encoder  layers  subclass of  decoder  layers  subclass of
+ ReLU activation  linear transformation  subclass of
+ max(0, xW1 + b1)W2 + b2�(2)BuyableWhile the same across different positions  linear transformations  subclass of
+ kernel size  convolutions  facet of
+ dmodel  dimensionality  subclass of
+ Embeddings and Softmax  learned embeddings  uses
+ softmax  linear transfor-mation  subclass of
+ embedding layer  weight matrix  subclass of
+ embedding layer  √dmodel  has part  √dmodel  embedding layer  part of
+ per-layer complexity  layer types  facet of
+ kernelsize  convolutions  facet of
+ Recurrent  convolution  opposite of
+ encoder  stack  part of  decoder  stack  part of  stack  encoder  has part  decoder  has part
+ dmodel  positional encoding  use
+ learned and fixed  positional encoding  subclass of
+ sine  cosine function  subclass of  cosine function  sine  subclass of
+ sinusoid  dimension  instance of
+ 10000  2π  follows  2π  follows
+ PEpos  linear function  instance of  PEpos  linear function  instance of  PEpos  linear function  instance of
+ positional embeddings  learned  subclass of
+ sinusoidal  sequence length  subclass of
+ encoder  decoder  different from  decoder  encoder  different from
+ desiderata  self-attention  facet of
+ computational complexity  layer  has part  layer  computational complexity  part of
+ parallelized  sequential operations  opposite of  sequential operations  parallelized  opposite of
+ path length  dependencies  facet of
+ Learning long-rangedependencies  sequence transduction  facet of
+ forward  backward signal  opposite of  backward signal  forward  opposite of
+ positions  sequences  part of  sequences  positions  has part
+ network  layer types  has part  layer types  network  part of
+ self-attention layer  recurrent layer  opposite of  recurrent layer  self-attention layer  opposite of
+ self-attention layer  recurrent layer  opposite of  recurrent layer  self-attention layer  opposite of
+ computational performance  self-attention  has part
+ maximumpath length  O(n/r)  said to be the same as  O(n/r)  maximumpath length  said to be the same as
+ University of California, Berkeley  Berkeley, California  located in the administrative territorial entity  Berkeley, California  University of California, Berkeley  different from
+ convolutional layer  kernel  has part  kernel  convolutional layer  part of
+ dilated convolutions  convolutional layers  subclass of
+ Convolutional layer  Recurrent layer  opposite of  Recurrent layer  Convolutional layer  opposite of
+ separableconvolution  self-attention layer  has part  point-wise feed-forward layer  has part  self-attention layer  separableconvolution  part of  point-wise feed-forward layer  separableconvolution  part of
+ self-attention  models  instance of
+ attention distribution  models  facet of
+ syntactic  semantic  has part  semantic  syntactic  part of
+ Training  training regime  has part  training regime  Training  part of
+ WMT 2014  2014  point in time
+ byte-pair encoding  Sentences  use
+ WMT2014  dataset  instance of
+ Sentence pair  sequence length  part of  sequence length  Sentence pair  has part
+ source tokens  target tokens  opposite of  target tokens  source tokens  opposite of
+ NVIDIA P100  GPUs  subclass of
+ base model  training step  has part  training step  base model  part of
+ 100,000 steps  12 hours  said to be the same as  12 hours  100,000 steps  said to be the same as
+ big models  step time  subclass of
+ 2009 World Championships in Athletics  2009  point in time  2009  point in time
+ Adam optimizer  Optimizer  instance of
+ warmup_steps  step number  subclass of
+ 4000  4000  point in time
+ English-to-German  BLEU  instance of  English-to-French newstest2014  BLEU  instance of
+ GPUs  GPUs  different from  GPUs  GPUs  different from
+ embeddings  encodings  subclass of
+ Pdrop  rate  instance of
+ Label Smoothing  label smoothing  instance of
+ uncertainty  perplexity  different from  perplexity  uncertainty  different from
+ 2014 English-to-German translation task  2014  point in time
+ configuration of this model  Table 3  part of  Table 3  configuration of this model  has part
+ P100  GPUs  subclass of
+ ensemble  models  subclass of
+ WMT 2014  2014  point in time
+ Transformer (big) model  base model  instance of
+ big models  checkpoints  subclass of
+ beam search  beam size  studies  beam size  beam search  studied by
+ development set  hyperparameters  subclass of
+ maximum output length  maximum output length + 50  different from  maximum output length + 50  maximum output length  different from
+ training costs  translation quality  facet of
+ GPU 5  GPUs  subclass of
+ K80  TFLOPS  instance of  K40  TFLOPS  instance of  M40  TFLOPS  instance of  P100  TFLOPS  instance of
+ Transformer  architecture  instance of
+ Unlisted values  basemodel  facet of
+ newstest2013  English-to-German translation development set  instance of
+ byte-pair encoding  per-wordpiece  subclass of
+ usurping  usurping  subclass of
+ beam search  averaging  different from  averaging  beam search  different from
+ Table 3  Table  part of
+ attention heads  attention key  has part  attention key  attention heads  part of
+ best setting  BLEU  facet of
+ attention key  dk  has part  dk  attention key  part of
+ compatibility  compatibility  facet of
+ dropout  over-fitting  opposite of
+ learned positional embeddings  positional encoding  subclass of
+ 7086  English Constituency Parsing  use
+ output  input  opposite of  input  output  opposite of
+ state-of-the-art  small-data regime  studies  small-data regime  state-of-the-art  studied by
+ Wall Street Journal  Penn Treebank  owner of  Penn Treebank  Wall Street Journal  owned by
+ BerkleyParser  corpora  instance of
+ WSJ  semi-supervised setting  instance of
+ attention  learning rate  subclass of
+ PEP  PEP  instance of  PEP  instance of  PEP  PEP  subclass of  PEP  subclass of  PEP  subclass of  PEP  PEP  subclass of  PEP  subclass of  PEP  subclass of  PEP  PEP  subclass of  PEP  subclass of  PEP  subclass of  PEP  PEP  subclass of  PEP  subclass of  P
+ semi-supervised setting  α = 0.3  has part
+ Recurrent Neural Network Grammar  models  instance of
+ Berkeley-Parser  sequence-to-sequence model  instance of
+ Transformer  first sequence transduction model  instance of
+ recurrent  layers  subclass of  convolutional  layers  subclass of
+ WMT 2014  2014  point in time  2014  point in time  WMT 2014  2014  point in time  2014  point in time
+ Best Actor  Oscar Wilde  winner  Oscar Wilde  Best Actor  award received
+ Attention-based model  models  subclass of
+ input and output modalities  attention mechanisms  facet of
+ Generation  Sequential  has part  Sequential  Generation  part of
+ tensor2tensor github.com/tensorflow/tensor2tensor  based on
+ Nal Kalchbrenner  Stephan Gouws  student  Stephan Gouws  Nal Kalchbrenner  student of
+ Jamie Ryan Kiros  Geoffrey E Hinton  student
+ Layer normalization  normalization  subclass of
+ 2016  2016  point in time
+ Kyunghyun Cho  Yoshua Bengio  spouse  Yoshua Bengio  Kyunghyun Cho  spouse
+ Neural machine translation  jointly能  uses  jointly能  Neural machine translation  use
+ Denny Britz  CoRR  member of  Anna Goldie  CoRR  member of  Minh-Thang Luong  CoRR  member of  Quoc V. Le  CoRR  member of
+ neuralmachine translation  architectures  subclass of
+ Jianpeng Cheng  Li Dong  student  Mirella Lapata  student  Li Dong  Jianpeng Cheng  student  Mirella Lapata  student  Mirella Lapata  Jianpeng Cheng  student of  Li Dong  student of
+ machinereading  memory-networks  subclass of
+ arXiv preprint  arXiv  part of
+ Kyunghyun Cho  Bart van Merrienboer  student  Caglar Gulcehre  student  Fethi Bougares  student  Holger Schwenk  student  Yoshua Bengio  student  Bart van Merrienboer  Kyunghyun Cho  student  Caglar Gulcehre  Kyunghyun Cho  student  Fethi Bougares  Kyunghyun Cho  student  Holger Schwenk 
+ rnn encoder-decoder  machine translation  use
+ Francois Chollet  abs  sports discipline competed in
+ Xception  Deep learning  subclass of  separable convolutions  Deep learning  subclass of
+ 2016  2016  point in time
+ Junyoung Chung  Çaglar Gülçehre  has part  Kyunghyun Cho  has part  Yoshua Bengio  has part  Çaglar Gülçehre  Junyoung Chung  part of  Kyunghyun Cho  Junyoung Chung  part of  Yoshua Bengio  Junyoung Chung  part of
+ gated  recurrent neural networks  subclass of
+ Chris Dyer  Adhiguna Kuncoro  student  Miguel Ballesteros  student  Adhiguna Kuncoro  Chris Dyer  student of  Miguel Ballesteros  student  Miguel Ballesteros  Chris Dyer  student of  Adhiguna Kuncoro  student of
+ 2016  2016  point in time
+ Convolu-tional  sequence learning  subclass of
+ 2017  2017  point in time
+ Alex Graves  9  ranking
+ recurrent neural networks  Generating sequences  subclass of
+ preprint  preprint  subclass of
+ Xiangyu Zhang  Shaoqing Ren  student  Shaoqing Ren  Xiangyu Zhang  student of
+ Deep residual learning  recognition  use
+ IEEE Conference on Computer Vision and Pattern Recognition  2016  point in time
+ Sepp Hochreiter  Yoshua Bengio  student  Paolo Frasconi  student  Yoshua Bengio  Sepp Hochreiter  student of  Paolo Frasconi  Sepp Hochreiter  student of
+ Gradient flow inrecurrent nets  2001  publication date
+ Sepp Hochreiter  Jürgen Schmidhuber  student  Jürgen Schmidhuber  Sepp Hochreiter  student of
+ 1997  1997  point in time
+ Zhongqiang Huang  Mary Harper  spouse  Mary Harper  Zhongqiang Huang  spouse
+ annotations  grammars  part of
+ 2009 Conference on Empirical Methods in NaturalLanguage Processing  2009  point in time
+ Rafal Jozefowicz  ACL  member of sports team  Oriol Vinyals  ACL  member of sports team  Mike Schuster  ACL  member of sports team  Noam Shazeer  ACL  member of sports team  Yonghui Wu  ACL  member of sports team
+ language modeling  language  studies  language  language modeling  studied by
+ arXiv preprint  arXiv  part of
+ Łukasz Kaiser  Ilya Sutskever  spouse  Ilya Sutskever  Łukasz Kaiser  spouse
+ Neural GPU  learn algorithms  use
+ International Conferenceon Learning Representations  2016  publication date
+ linear time  machine translation  subclass of
+ preprint  arXiv  part of
+ Yoon Kim  Carl Denton  student  Luong Hoang  student  Carl Denton  Yoon Kim  student  Luong Hoang  student  Luong Hoang  Yoon Kim  student of  Carl Denton  student of
+ attention network  Structured  subclass of
+ International Conference on Learning Representations  2017  point in time
+ Adam  stochastic optimization  use
+ 2015  2015  point in time
+ LSTM  networks  subclass of
+ 2017  2017  point in time
+ Zhouhan Lin  Mo Yu  student  Mo Yu  Zhouhan Lin  student of
+ sentence embedding  self-attentive  subclass of
+ 2017  2017  point in time
+ Minh-Thang Luong  Quoc V. Le  spouse  Quoc V. Le  Minh-Thang Luong  spouse
+ Multi-task�sequence  sequence learning  subclass of
+ arXiv preprint  arXiv  part of
+ Minh-Thang Luong  Hieu Pham  spouse  Hieu Pham  Minh-Thang Luong  spouse
+ attention-based neural  machine translation  subclass of
+ arXiv preprint  arXiv  part of
+ Mitchell P Marcus  Mary Ann Marcinkiewicz  spouse  Mary Ann Marcinkiewicz  Mitchell P Marcus  spouse
+ The penn treebank  annotatedcorpus  instance of
+ Computational linguistics  1993  publication date
+ David McClosky  Eugene Charniak  has part  Mark Johnson  has part  Eugene Charniak  David McClosky  part of  Mark Johnson  part of  Mark Johnson  David McClosky  part of  Eugene Charniak  part of
+ self-training  self-training  subclass of
+ Human Language Technology Conference  NAACL  organizer
+ Ankur Parikh  ACL  member of sports team  Oscar Täckström  ACL  member of sports team  Dipanjan Das  ACL  member of sports team  Jakob Uszkoreit  ACL  member of sports team
+ attentionmodel  decomposable  subclass of
+ Empirical Methods in Natural Language Processing  2016  publication date
+ deep reinforced model  abstractive summarizesummarization  use
+ arXiv preprint  arXiv  part of
+ Slav Petrov  Leon Barrett  student  Romain Thibaux  student  Leon Barrett  Slav Petrov  student of  Romain Thibaux  Slav Petrov  student of
+ tree annotation  interpretable  subclass of
+ 21st International Conference onComputational Linguistics  ACL  organizer  44th Annual Meeting  ACL  organizer
+ Ofir Press  Lior Wolf  has part  Lior Wolf  Ofir Press  part of
+ embedding  language model  part of
+ 2016  2016  point in time
+ Rico Sennrich  Alexandra Birch  spouse  Alexandra Birch  Rico Sennrich  spouse
+ subword  word  subclass of
+ arXiv preprint  arXiv  part of
+ Noam Shazeer  Azalia Mirhoseini  has part  Krzysztof Maziarz  has part  Andy Davis  has part  Quoc Le  has part  Geoffrey Hinton  has part  Jeff Dean  has part  Azalia Mirhoseini  Noam Shazeer  part of  Krzysztof Maziarz  Noam Shazeer  part of  Andy Davis  Noam Shazeer  part of 
+ Outrageously large neural networks  sparsely-gated mixture-of-expertslayer  subclass of
+ arXiv preprint  arXiv  part of
+ Dropout  neural network  facet of
+ Journal of MachineLearning Research  2014  publication date
+ Advances in Neural Information Processing Systems  C. Cortes  author
+ 2015  2015  point in time
+ Ilya Sutskever  Oriol Vinyals  student  Quoc VV Le  student  Oriol Vinyals  Ilya Sutskever  student  Quoc VV Le  student  Quoc VV Le  Ilya Sutskever  student of  Oriol Vinyals  student of
+ neuralnetwork  Sequence to sequence learning  uses
+ Advances in Neural Information Processing Systems  2014  publication date
+ Vincent Vanhoucke  computer vision  field of work
+ 2015  2015  point in time
+ Vinyals  Grammar as a foreign language  notable work  Kaiser  Grammar as a foreign language  notable work  Koo  Grammar as a foreign language  notable work  Petrov  Grammar as a foreign language  notable work  Sutskever  Grammar as a foreign language  notable work  Hinton  Grammar as a foreign language  notable work
+ Advances in Neural Information Processing Systems  2015  publication date
+ 2016  2016  point in time
+ Ying Cao  Jie Zhou  influenced by
+ Deep recurrent  machine translation  use
+ Muhua Zhu  CoRR  member of  Yue Zhang  CoRR  member of  Wenliang Chen  CoRR  member of  Min Zhang  CoRR  member of  Jingbo Zhu  CoRR  member of
+ parsing  constituent  studies  constituent  parsing  studied by
+ Proceedings of the 51st Annual Meeting of the ACL  Volume                1: Long Papers  published in  Volume                1: Long Papers  Proceedings of the 51st Annual Meeting of the ACL  published in
+ Attention Visualizations  August 2013  publication date
+ EOS  American  country
+ EOS  6  has part  6  EOS  part of
+ making...more difficult  verb  instance of
+ ‘making’  ‘making’  said to be the same as  ‘making’  ‘making’  said to be the same as
+ colors  heads  part of
+ color  viewed  subclass of
+ egregiously  egregiously  opposite of  egregiously  opposite of  egregiously  egregiously  opposite of  egregiously  opposite of  egregiously  egregiously  opposite of  egregiously  opposite of  egregiously  egregiously  opposite of  egregiously  opposite of
+ EOS  EOS  part of
+ EOS  EOS  part of
+ EOS  EOS  part of
+ attention heads  anaphora  part of  anaphora  attention heads  has part
+ Top  5  number of participants
+ 5  6  followed by  6  5  follows
+ Attention  attentions  subclass of
+ Politically Correcting Act  2010  publication date
+ EOS  EOS  part of
+ EOS  EOS  part of
+ EOS  EOS  part of
+ egregiously  EOS  part of  egregiously  EOS  part of
+ encoder  self-attentionat layer 5  has part  self-attentionat layer 5  encoder  part of
+ head  tasks  use
+ Ḹ�ḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸḸ�

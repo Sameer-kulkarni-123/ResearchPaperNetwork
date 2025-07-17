@@ -1,0 +1,1591 @@
+attribution	ENTITY
+Google	ENTITY
+grants	ENTITY
+permission	ENTITY
+tables	ENTITY
+figures	ENTITY
+journalistic	ENTITY
+scholarly works	ENTITY
+Ashish	ENTITY
+Vaswani∗
+	ENTITY
+usz@google.com
+Llion Jones∗
+	ENTITY
+Toronto
+aidan@cs.toronto.edu
+	ENTITY
+Polosukhin∗‡
+	ENTITY
+Abstract
+	ENTITY
+dominant	ENTITY
+models	ENTITY
+complex	ENTITY
+recurrent	ENTITY
+convolutional	ENTITY
+neural networks	ENTITY
+encoder	ENTITY
+decoder	ENTITY
+performing models	ENTITY
+encoder	ENTITY
+decoder	ENTITY
+mechanism	ENTITY
+network	ENTITY
+architecture	ENTITY
+Transformer	ENTITY
+attention	ENTITY
+mechanisms	ENTITY
+dispensing	ENTITY
+recurrence	ENTITY
+convolutions
+entirely	ENTITY
+Experiments	ENTITY
+machine	ENTITY
+translation	ENTITY
+models	ENTITY
+superior	ENTITY
+quality	ENTITY
+parallelizable	ENTITY
+train	ENTITY
+model	ENTITY
+BLEU	ENTITY
+WMT	ENTITY
+to-German translation task	ENTITY
+improving	ENTITY
+results	ENTITY
+ensembles	ENTITY
+BLEU	ENTITY
+WMT	ENTITY
+English-to-French translation task	ENTITY
+model	ENTITY
+single-model	ENTITY
+training	ENTITY
+days	ENTITY
+GPUs	ENTITY
+training costs	ENTITY
+models	ENTITY
+literature	ENTITY
+Transformer	ENTITY
+generalizes	ENTITY
+English	ENTITY
+constituency	ENTITY
+training data	ENTITY
+contribution	ENTITY
+random	ENTITY
+Jakob	ENTITY
+RNNs	ENTITY
+self-attention	ENTITY
+evaluate	ENTITY
+Ashish	ENTITY
+Illia	ENTITY
+designed	ENTITY
+Transformer	ENTITY
+models	ENTITY
+crucially	ENTITY
+scaled	ENTITY
+multi-head
+attention	ENTITY
+parameter-free position	ENTITY
+person	ENTITY
+Niki	ENTITY
+implemented	ENTITY
+evaluated	ENTITY
+variants	ENTITY
+codebase	ENTITY
+Llion	ENTITY
+model	ENTITY
+variants	ENTITY
+codebase	ENTITY
+inference	ENTITY
+visualizations	ENTITY
+Lukasz	ENTITY
+Aidan	ENTITY
+designing	ENTITY
+parts	ENTITY
+tensor2tensor	ENTITY
+codebase	ENTITY
+results	ENTITY
+research	ENTITY
+Google Brain	ENTITY
+Google Research	ENTITY
+Neural Information Processing Systems	ENTITY
+NIPS	ENTITY
+Long Beach	ENTITY
+CA	ENTITY
+USA	ENTITY
+CL	ENTITY
+neural networks	ENTITY
+short-term	ENTITY
+memory	ENTITY
+gated recurrent	ENTITY
+neural networks	ENTITY
+sequence modeling	ENTITY
+transduction	ENTITY
+problems	ENTITY
+language	ENTITY
+modeling	ENTITY
+machine	ENTITY
+translation	ENTITY
+push	ENTITY
+boundaries	ENTITY
+recurrent	ENTITY
+language models	ENTITY
+encoder-decoder
+architectures	ENTITY
+Recurrent models	ENTITY
+factor computation	ENTITY
+symbol	ENTITY
+input	ENTITY
+output
+sequences	ENTITY
+computation	ENTITY
+sequence	ENTITY
+hidden
+	ENTITY
+states	ENTITY
+function	ENTITY
+hidden state ht−1	ENTITY
+position	ENTITY
+sequential	ENTITY
+nature	ENTITY
+precludes	ENTITY
+parallelization	ENTITY
+training examples	ENTITY
+lengths	ENTITY
+memory	ENTITY
+batching	ENTITY
+examples	ENTITY
+improvements	ENTITY
+computational	ENTITY
+efficiency	ENTITY
+factorization tricks	ENTITY
+conditional	ENTITY
+model	ENTITY
+performance	ENTITY
+case	ENTITY
+fundamental
+	ENTITY
+sequential	ENTITY
+computation	ENTITY
+Attention	ENTITY
+mechanisms	ENTITY
+integral	ENTITY
+compelling sequence modeling	ENTITY
+tasks	ENTITY
+modeling	ENTITY
+dependencies	ENTITY
+distance	ENTITY
+input	ENTITY
+output sequences	ENTITY
+cases	ENTITY
+mechanisms	ENTITY
+conjunction	ENTITY
+recurrent	ENTITY
+network	ENTITY
+Transformer	ENTITY
+model	ENTITY
+architecture	ENTITY
+recurrence	ENTITY
+attention	ENTITY
+mechanism	ENTITY
+input	ENTITY
+output	ENTITY
+Transformer	ENTITY
+parallelization	ENTITY
+translation quality	ENTITY
+P100	ENTITY
+GPUs	ENTITY
+goal	ENTITY
+sequential	ENTITY
+computation	ENTITY
+Extended	ENTITY
+Neural GPU
+	ENTITY
+ConvS2S	ENTITY
+convolutional	ENTITY
+neural networks	ENTITY
+hidden representations	ENTITY
+input	ENTITY
+output	ENTITY
+positions	ENTITY
+models	ENTITY
+operations	ENTITY
+relate	ENTITY
+signals	ENTITY
+arbitrary	ENTITY
+input	ENTITY
+output	ENTITY
+positions	ENTITY
+distance	ENTITY
+positions	ENTITY
+ConvS2S	ENTITY
+logarithmically	ENTITY
+ByteNet	ENTITY
+distant	ENTITY
+positions	ENTITY
+Transformer	ENTITY
+reduced	ENTITY
+constant	ENTITY
+operations	ENTITY
+cost	ENTITY
+reduced	ENTITY
+effective	ENTITY
+resolution	ENTITY
+attention-weighted	ENTITY
+effect	ENTITY
+Multi-Head Attention	ENTITY
+section	ENTITY
+Self-attention	ENTITY
+intra-attention	ENTITY
+attention	ENTITY
+mechanism	ENTITY
+representation	ENTITY
+sequence	ENTITY
+Self-attention	ENTITY
+tasks	ENTITY
+reading comprehension	ENTITY
+abstractive	ENTITY
+summarization	ENTITY
+learning	ENTITY
+End-to-end	ENTITY
+networks	ENTITY
+mechanism	ENTITY
+recurrence	ENTITY
+simple-language question	ENTITY
+answering	ENTITY
+knowledge	ENTITY
+Transformer	ENTITY
+transduction	ENTITY
+model	ENTITY
+self-attention	ENTITY
+representations	ENTITY
+input	ENTITY
+output	ENTITY
+RNNs	ENTITY
+convolution	ENTITY
+sections	ENTITY
+Transformer	ENTITY
+motivate
+	ENTITY
+models	ENTITY
+competitive	ENTITY
+neural sequence transduction	ENTITY
+models	ENTITY
+encoder-decoder structure	ENTITY
+encoder	ENTITY
+maps	ENTITY
+symbol representations	ENTITY
+sequence
+	ENTITY
+continuous representations	ENTITY
+output
+sequence	ENTITY
+symbols	ENTITY
+element	ENTITY
+time	ENTITY
+model	ENTITY
+auto-regressive
+	ENTITY
+consuming	ENTITY
+symbols	ENTITY
+Transformer	ENTITY
+model	ENTITY
+architecture	ENTITY
+Transformer	ENTITY
+architecture	ENTITY
+point-wise	ENTITY
+connected layers	ENTITY
+encoder	ENTITY
+decoder	ENTITY
+left	ENTITY
+right halves	ENTITY
+Figure 1	ENTITY
+Decoder Stacks
+	ENTITY
+Encoder	ENTITY
+encoder	ENTITY
+stack	ENTITY
+N	ENTITY
+identical	ENTITY
+layers	ENTITY
+layer	ENTITY
+sub-layers	ENTITY
+network	ENTITY
+residual connection	ENTITY
+sub-layers	ENTITY
+layer	ENTITY
+normalization	ENTITY
+output	ENTITY
+sub-layer	ENTITY
+Sublayer(x	ENTITY
+Sublayer(x)	ENTITY
+function	ENTITY
+implemented	ENTITY
+sub-layer
+itself	ENTITY
+residual	ENTITY
+connections	ENTITY
+sub-layers	ENTITY
+model	ENTITY
+outputs	ENTITY
+dimension	ENTITY
+dmodel	ENTITY
+decoder	ENTITY
+stack	ENTITY
+N	ENTITY
+identical	ENTITY
+layers	ENTITY
+sub-layers	ENTITY
+encoder	ENTITY
+layer	ENTITY
+inserts	ENTITY
+sub-layer	ENTITY
+output	ENTITY
+encoder	ENTITY
+stack	ENTITY
+encoder	ENTITY
+residual	ENTITY
+connections	ENTITY
+sub-layers	ENTITY
+layer	ENTITY
+normalization	ENTITY
+modify	ENTITY
+self-attention
+	ENTITY
+sub-layer	ENTITY
+stack	ENTITY
+prevent	ENTITY
+positions	ENTITY
+attending	ENTITY
+positions	ENTITY
+output embeddings	ENTITY
+position	ENTITY
+ensures	ENTITY
+predictions	ENTITY
+outputs	ENTITY
+i.
+	ENTITY
+attention function	ENTITY
+mapping	ENTITY
+query	ENTITY
+key-value	ENTITY
+output	ENTITY
+query	ENTITY
+keys	ENTITY
+values	ENTITY
+output	ENTITY
+vectors	ENTITY
+output	ENTITY
+weighted sum
+3
+Scaled Dot-Product Attention
+Multi-Head Attention
+Figure 2	ENTITY
+values	ENTITY
+weight	ENTITY
+assigned	ENTITY
+compatibility function	ENTITY
+Scaled Dot-Product Attention	ENTITY
+queries	ENTITY
+keys	ENTITY
+dimension	ENTITY
+values	ENTITY
+dimension	ENTITY
+products	ENTITY
+keys	ENTITY
+divide	ENTITY
+softmax function	ENTITY
+weights	ENTITY
+attention function	ENTITY
+queries	ENTITY
+simultaneously	ENTITY
+matrix Q.	ENTITY
+keys	ENTITY
+values	ENTITY
+matrices K	ENTITY
+V	ENTITY
+matrix	ENTITY
+outputs	ENTITY
+Attention(Q	ENTITY
+K	ENTITY
+attention functions	ENTITY
+dot-product	ENTITY
+Dot-product attention	ENTITY
+algorithm	ENTITY
+scaling factor	ENTITY
+computes	ENTITY
+compatibility function	ENTITY
+feed-forward network	ENTITY
+hidden layer	ENTITY
+theoretical complexity	ENTITY
+dot-product attention	ENTITY
+faster	ENTITY
+space-efficient	ENTITY
+practice	ENTITY
+code	ENTITY
+small values	ENTITY
+mechanisms	ENTITY
+scaling	ENTITY
+values	ENTITY
+grow large	ENTITY
+magnitude	ENTITY
+softmax function	ENTITY
+regions	ENTITY
+gradients	ENTITY
+effect	ENTITY
+attention function	ENTITY
+dmodel-dimensional keys	ENTITY
+values	ENTITY
+queries	ENTITY
+queries	ENTITY
+keys	ENTITY
+values	ENTITY
+learned	ENTITY
+dimensions	ENTITY
+projected versions	ENTITY
+queries	ENTITY
+keys	ENTITY
+values	ENTITY
+attention function	ENTITY
+dv-dimensional
+4To	ENTITY
+components	ENTITY
+random	ENTITY
+Pdk
+i=1 qiki	ENTITY
+variance	ENTITY
+output values	ENTITY
+once again	ENTITY
+values	ENTITY
+depicted	ENTITY
+Figure 2	ENTITY
+model	ENTITY
+attend	ENTITY
+information	ENTITY
+representation	ENTITY
+positions	ENTITY
+inhibits	ENTITY
+MultiHead(Q	ENTITY
+K	ENTITY
+Concat(head1	ENTITY
+headi	ENTITY
+Attention(QW	ENTITY
+Q
+i	ENTITY
+KW K
+i	ENTITY
+projections	ENTITY
+parameter matrices	ENTITY
+W K
+i
+	ENTITY
+W V
+i
+	ENTITY
+∈Rdmodel	ENTITY
+∈Rhdv	ENTITY
+dmodel	ENTITY
+heads	ENTITY
+reduced	ENTITY
+dimension	ENTITY
+head	ENTITY
+computational	ENTITY
+single-head	ENTITY
+dimensionality	ENTITY
+Applications	ENTITY
+Attention	ENTITY
+Model
+	ENTITY
+Transformer	ENTITY
+multi-head	ENTITY
+encoder-decoder attention	ENTITY
+layers	ENTITY
+queries	ENTITY
+layer	ENTITY
+memory keys	ENTITY
+values	ENTITY
+come	ENTITY
+output	ENTITY
+encoder	ENTITY
+attend	ENTITY
+input sequence	ENTITY
+mimics	ENTITY
+encoder-decoder attention	ENTITY
+mechanisms	ENTITY
+sequence-to-sequence models	ENTITY
+encoder	ENTITY
+self-attention layers	ENTITY
+self-attention layer	ENTITY
+keys	ENTITY
+values
+	ENTITY
+queries	ENTITY
+case	ENTITY
+output	ENTITY
+layer	ENTITY
+encoder	ENTITY
+position	ENTITY
+encoder	ENTITY
+positions	ENTITY
+layer	ENTITY
+encoder	ENTITY
+self-attention layers	ENTITY
+position	ENTITY
+position	ENTITY
+prevent	ENTITY
+leftward	ENTITY
+auto-regressive property	ENTITY
+implement	ENTITY
+scaled	ENTITY
+values	ENTITY
+softmax	ENTITY
+illegal	ENTITY
+connections	ENTITY
+Position-wise Feed-Forward Networks
+	ENTITY
+attention	ENTITY
+sub-layers	ENTITY
+layers	ENTITY
+encoder	ENTITY
+decoder	ENTITY
+network	ENTITY
+position	ENTITY
+separately	ENTITY
+identically	ENTITY
+linear transformations	ENTITY
+ReLU	ENTITY
+activation	ENTITY
+max(0	ENTITY
+xW1 + b1)W2 + b2
+(2)	ENTITY
+linear transformations	ENTITY
+positions	ENTITY
+parameters	ENTITY
+layer	ENTITY
+layer	ENTITY
+convolutions	ENTITY
+kernel size 1	ENTITY
+dimensionality	ENTITY
+input	ENTITY
+output	ENTITY
+dmodel	ENTITY
+inner-layer	ENTITY
+dimensionality	ENTITY
+Softmax
+	ENTITY
+sequence transduction	ENTITY
+models	ENTITY
+learned	ENTITY
+tokens	ENTITY
+vectors	ENTITY
+dimension	ENTITY
+dmodel	ENTITY
+learned	ENTITY
+mation	ENTITY
+softmax function	ENTITY
+next-token	ENTITY
+probabilities	ENTITY
+model	ENTITY
+weight matrix	ENTITY
+layers	ENTITY
+pre-softmax
+	ENTITY
+linear transformation	ENTITY
+layers	ENTITY
+weights	ENTITY
+Maximum path	ENTITY
+lengths	ENTITY
+per-layer	ENTITY
+complexity	ENTITY
+sequential	ENTITY
+operations
+	ENTITY
+layer	ENTITY
+sequence	ENTITY
+length	ENTITY
+representation	ENTITY
+dimension	ENTITY
+kernel
+	ENTITY
+convolutions	ENTITY
+size	ENTITY
+neighborhood	ENTITY
+restricted	ENTITY
+self-attention	ENTITY
+Type
+Complexity	ENTITY
+Layer
+	ENTITY
+Sequential
+Maximum Path	ENTITY
+Length
+Operations
+Self-Attention
+O(n2 · d)
+O(1)
+O(1)
+Recurrent
+O(n · d2)
+O(n)
+O(n)
+	ENTITY
+Convolutional
+O(k ·	ENTITY
+restricted	ENTITY
+model	ENTITY
+convolution	ENTITY
+model	ENTITY
+sequence	ENTITY
+information	ENTITY
+absolute	ENTITY
+position	ENTITY
+tokens	ENTITY
+sequence	ENTITY
+positional encodings	ENTITY
+embeddings	ENTITY
+bottoms	ENTITY
+encoder	ENTITY
+decoder	ENTITY
+stacks	ENTITY
+positional encodings	ENTITY
+dimension	ENTITY
+embeddings	ENTITY
+summed	ENTITY
+positional encodings	ENTITY
+fixed	ENTITY
+sine	ENTITY
+cosine functions	ENTITY
+frequencies	ENTITY
+sin(pos/100002i/dmodel)
+PE(pos,2i+1	ENTITY
+pos	ENTITY
+position	ENTITY
+dimension	ENTITY
+dimension	ENTITY
+positional	ENTITY
+sinusoid	ENTITY
+wavelengths	ENTITY
+geometric progression	ENTITY
+function	ENTITY
+model	ENTITY
+fixed offset k	ENTITY
+linear function	ENTITY
+learned positional embeddings	ENTITY
+versions	ENTITY
+identical	ENTITY
+results	ENTITY
+E	ENTITY
+sinusoidal	ENTITY
+model	ENTITY
+sequence	ENTITY
+lengths	ENTITY
+training	ENTITY
+section	ENTITY
+compare	ENTITY
+self-attention layers	ENTITY
+recurrent	ENTITY
+tional layers	ENTITY
+mapping	ENTITY
+variable-length sequence	ENTITY
+symbol representations
+	ENTITY
+sequence	ENTITY
+length	ENTITY
+hidden
+layer	ENTITY
+sequence transduction	ENTITY
+encoder	ENTITY
+decoder	ENTITY
+Motivating	ENTITY
+self-attention	ENTITY
+desiderata	ENTITY
+computational	ENTITY
+layer	ENTITY
+computation	ENTITY
+parallelized	ENTITY
+measured	ENTITY
+sequential	ENTITY
+operations	ENTITY
+path	ENTITY
+length	ENTITY
+long-range dependencies	ENTITY
+network	ENTITY
+Learning long-range
+	ENTITY
+sequence transduction	ENTITY
+tasks	ENTITY
+factor	ENTITY
+affecting	ENTITY
+learn	ENTITY
+dependencies	ENTITY
+paths forward	ENTITY
+backward signals	ENTITY
+network	ENTITY
+shorter	ENTITY
+paths	ENTITY
+combination	ENTITY
+positions	ENTITY
+input	ENTITY
+output sequences	ENTITY
+length	ENTITY
+input	ENTITY
+output	ENTITY
+networks	ENTITY
+layer types	ENTITY
+self-attention layer	ENTITY
+connects	ENTITY
+constant number	ENTITY
+sequentially
+	ENTITY
+operations	ENTITY
+recurrent layer	ENTITY
+sequential	ENTITY
+operations	ENTITY
+computational	ENTITY
+self-attention layers	ENTITY
+recurrent layers	ENTITY
+sequence
+6
+length	ENTITY
+representation	ENTITY
+dimensionality	ENTITY
+case	ENTITY
+state-of-the-art models	ENTITY
+machine translations	ENTITY
+word-piece
+	ENTITY
+byte-pair	ENTITY
+representations	ENTITY
+computational	ENTITY
+performance	ENTITY
+tasks	ENTITY
+self-attention	ENTITY
+neighborhood	ENTITY
+size	ENTITY
+input sequence	ENTITY
+output	ENTITY
+position	ENTITY
+increase	ENTITY
+O(n/r	ENTITY
+investigate	ENTITY
+work	ENTITY
+kernel width k	ENTITY
+pairs	ENTITY
+input	ENTITY
+output	ENTITY
+positions	ENTITY
+stack	ENTITY
+convolutional layers	ENTITY
+case	ENTITY
+contiguous	ENTITY
+case	ENTITY
+dilated	ENTITY
+convolutions	ENTITY
+increasing	ENTITY
+length	ENTITY
+longest paths	ENTITY
+network	ENTITY
+Convolutional layers	ENTITY
+factor	ENTITY
+k. Separable convolutions	ENTITY
+decrease	ENTITY
+complexity
+	ENTITY
+O(k · n · d + n · d2	ENTITY
+complexity	ENTITY
+convolution	ENTITY
+combination	ENTITY
+self-attention layer	ENTITY
+point-wise feed-forward layer	ENTITY
+model	ENTITY
+self-attention	ENTITY
+interpretable models	ENTITY
+attention	ENTITY
+distributions	ENTITY
+models	ENTITY
+present	ENTITY
+examples	ENTITY
+appendix	ENTITY
+tasks	ENTITY
+behavior	ENTITY
+syntactic
+	ENTITY
+semantic structure	ENTITY
+sentences	ENTITY
+Training
+	ENTITY
+section	ENTITY
+training regime	ENTITY
+models	ENTITY
+Training Data	ENTITY
+Batching
+	ENTITY
+standard	ENTITY
+WMT	ENTITY
+English-German	ENTITY
+dataset	ENTITY
+Sentences	ENTITY
+byte-pair	ENTITY
+target	ENTITY
+vocabulary	ENTITY
+tokens	ENTITY
+English-French	ENTITY
+WMT	ENTITY
+English-French dataset	ENTITY
+M sentences	ENTITY
+split tokens	ENTITY
+word-piece	ENTITY
+Sentence pairs	ENTITY
+approximate sequence length	ENTITY
+training	ENTITY
+sentence	ENTITY
+pairs	ENTITY
+source	ENTITY
+tokens	ENTITY
+target	ENTITY
+Schedule
+	ENTITY
+models	ENTITY
+machine	ENTITY
+NVIDIA P100	ENTITY
+GPUs	ENTITY
+base models	ENTITY
+hyperparameters	ENTITY
+paper	ENTITY
+training	ENTITY
+base models	ENTITY
+steps	ENTITY
+hours	ENTITY
+models,(described	ENTITY
+step time	ENTITY
+big models	ENTITY
+steps
+	ENTITY
+days	ENTITY
+Optimizer
+	ENTITY
+Adam optimizer	ENTITY
+β1	ENTITY
+learning
+	ENTITY
+training	ENTITY
+formula	ENTITY
+lrate	ENTITY
+d−0.5
+model	ENTITY
+step_num · warmup_steps−1.5)
+(3)
+	ENTITY
+increasing	ENTITY
+learning rate	ENTITY
+warmup_steps	ENTITY
+training	ENTITY
+decreasing	ENTITY
+proportionally	ENTITY
+inverse square	ENTITY
+warmup_steps	ENTITY
+regularization	ENTITY
+training	ENTITY
+Transformer	ENTITY
+BLEU scores	ENTITY
+state-of-the-art models	ENTITY
+English-to-French newstest2014 tests	ENTITY
+fraction	ENTITY
+training cost	ENTITY
+FLOPs	ENTITY
+PosUnk	ENTITY
+RL	ENTITY
+Deep-Att	ENTITY
+PosUnk	ENTITY
+Ensemble	ENTITY
+RL	ENTITY
+Ensemble	ENTITY
+base model	ENTITY
+Dropout
+	ENTITY
+output	ENTITY
+sub-layer	ENTITY
+sub-layer	ENTITY
+input	ENTITY
+normalized	ENTITY
+embeddings	ENTITY
+encoder	ENTITY
+decoder	ENTITY
+stacks	ENTITY
+base model	ENTITY
+rate	ENTITY
+Pdrop	ENTITY
+Smoothing
+	ENTITY
+training	ENTITY
+smoothing	ENTITY
+perplexity	ENTITY
+model	ENTITY
+learns	ENTITY
+unsure	ENTITY
+improves	ENTITY
+accuracy	ENTITY
+BLEU score	ENTITY
+Translation
+	ENTITY
+WMT	ENTITY
+English-to-German translation task	ENTITY
+big transformer model	ENTITY
+Transformer	ENTITY
+outperforms	ENTITY
+models	ENTITY
+ensembles	ENTITY
+BLEU	ENTITY
+configuration	ENTITY
+model	ENTITY
+bottom line	ENTITY
+Training	ENTITY
+days	ENTITY
+P100	ENTITY
+GPUs	ENTITY
+base model	ENTITY
+published models	ENTITY
+ensembles	ENTITY
+fraction	ENTITY
+training	ENTITY
+cost	ENTITY
+competitive	ENTITY
+models	ENTITY
+WMT	ENTITY
+English-to-French translation task	ENTITY
+big model	ENTITY
+BLEU score	ENTITY
+published	ENTITY
+training	ENTITY
+cost	ENTITY
+state-of-the-art model	ENTITY
+Transformer	ENTITY
+English-to-French	ENTITY
+Pdrop	ENTITY
+base models	ENTITY
+single model	ENTITY
+checkpoints	ENTITY
+written	ENTITY
+intervals	ENTITY
+big models	ENTITY
+checkpoints	ENTITY
+beam	ENTITY
+beam size	ENTITY
+length penalty α	ENTITY
+hyperparameters
+	ENTITY
+experimentation	ENTITY
+development set	ENTITY
+output length	ENTITY
+terminate	ENTITY
+results	ENTITY
+compares	ENTITY
+translation quality	ENTITY
+training costs	ENTITY
+model	ENTITY
+literature	ENTITY
+estimate	ENTITY
+floating	ENTITY
+multiplying	ENTITY
+training time	ENTITY
+GPUs	ENTITY
+estimate	ENTITY
+sustained	ENTITY
+single-precision floating-point	ENTITY
+capacity	ENTITY
+GPU	ENTITY
+evaluate	ENTITY
+components	ENTITY
+Transformer	ENTITY
+base model	ENTITY
+measuring	ENTITY
+performance	ENTITY
+English-to-German translation	ENTITY
+values	ENTITY
+TFLOPS	ENTITY
+K80	ENTITY
+K40	ENTITY
+M40	ENTITY
+P100	ENTITY
+Variations	ENTITY
+Transformer	ENTITY
+architecture	ENTITY
+Unlisted values	ENTITY
+identical	ENTITY
+base
+model	ENTITY
+metrics	ENTITY
+English-to-German translation development set	ENTITY
+newstest2013	ENTITY
+Listed
+perplexities	ENTITY
+per-wordpiece	ENTITY
+byte-pair	ENTITY
+encoding	ENTITY
+per-word perplexities	ENTITY
+N
+	ENTITY
+Pdrop
+ϵls
+train
+	ENTITY
+PPL
+BLEU
+	ENTITY
+K
+	ENTITY
+sinusoids
+	ENTITY
+newstest2013	ENTITY
+beam	ENTITY
+section	ENTITY
+results	ENTITY
+A	ENTITY
+attention heads	ENTITY
+computation	ENTITY
+Section 3.2.2	ENTITY
+single-head	ENTITY
+BLEU	ENTITY
+quality	ENTITY
+drops	ENTITY
+heads	ENTITY
+B	ENTITY
+reducing	ENTITY
+size	ENTITY
+model	ENTITY
+quality	ENTITY
+compatibility	ENTITY
+sophisticated	ENTITY
+compatibility	ENTITY
+product	ENTITY
+beneficial	ENTITY
+rows	ENTITY
+C	ENTITY
+D	ENTITY
+dropout	ENTITY
+over-fitting	ENTITY
+row (E	ENTITY
+learned positional embeddings	ENTITY
+base model	ENTITY
+Parsing
+	ENTITY
+evaluate	ENTITY
+Transformer	ENTITY
+generalize	ENTITY
+experiments	ENTITY
+English	ENTITY
+output	ENTITY
+constraints	ENTITY
+input	ENTITY
+RNN	ENTITY
+sequence-to-sequence
+models	ENTITY
+attain	ENTITY
+small-data regimes	ENTITY
+4-layer	ENTITY
+transformer	ENTITY
+dmodel	ENTITY
+Wall Street Journal	ENTITY
+portion	ENTITY
+K training sentences	ENTITY
+semi-supervised setting	ENTITY
+high-confidence	ENTITY
+BerkleyParser	ENTITY
+corpora	ENTITY
+M sentences
+	ENTITY
+vocabulary	ENTITY
+K tokens	ENTITY
+WSJ	ENTITY
+vocabulary	ENTITY
+K tokens
+	ENTITY
+semi-supervised setting	ENTITY
+experiments	ENTITY
+dropout	ENTITY
+attention	ENTITY
+residual	ENTITY
+section	ENTITY
+learning rates	ENTITY
+beam size	ENTITY
+Section 22 development set	ENTITY
+parameters	ENTITY
+unchanged	ENTITY
+English-to-German base translation model	ENTITY
+inference	ENTITY
+Transformer	ENTITY
+generalizes	ENTITY
+English	ENTITY
+constituency parsing	ENTITY
+Results	ENTITY
+Section 23
+of	ENTITY
+Parser
+Training
+	ENTITY
+F1
+Vinyals	ENTITY
+WSJ	ENTITY
+Petrov	ENTITY
+WSJ	ENTITY
+WSJ	ENTITY
+WSJ	ENTITY
+WSJ	ENTITY
+multi-task
+	ENTITY
+increased	ENTITY
+maximum	ENTITY
+output	ENTITY
+length + 300	ENTITY
+beam size	ENTITY
+WSJ	ENTITY
+semi-supervised setting	ENTITY
+results	ENTITY
+Table	ENTITY
+task-specific tuning	ENTITY
+model	ENTITY
+prisingly	ENTITY
+results	ENTITY
+models	ENTITY
+exception	ENTITY
+Neural Network Grammar	ENTITY
+RNN	ENTITY
+sequence-to-sequence models	ENTITY
+Transformer outperforms	ENTITY
+Berkeley-
+Parser	ENTITY
+training	ENTITY
+WSJ training set	ENTITY
+K sentences	ENTITY
+Transformer	ENTITY
+sequence transduction	ENTITY
+recurrent layers	ENTITY
+encoder-decoder architectures	ENTITY
+translation tasks	ENTITY
+Transformer	ENTITY
+architectures	ENTITY
+recurrent	ENTITY
+convolutional layers	ENTITY
+WMT	ENTITY
+English-to-German	ENTITY
+WMT	ENTITY
+English-to-French translation tasks	ENTITY
+ensembles	ENTITY
+excited	ENTITY
+attention-based models	ENTITY
+plan	ENTITY
+Transformer	ENTITY
+problems	ENTITY
+input	ENTITY
+output	ENTITY
+modalities	ENTITY
+text	ENTITY
+investigate	ENTITY
+local	ENTITY
+attention	ENTITY
+mechanisms	ENTITY
+inputs	ENTITY
+outputs
+	ENTITY
+images	ENTITY
+audio	ENTITY
+video	ENTITY
+sequential	ENTITY
+research goals	ENTITY
+ours	ENTITY
+code	ENTITY
+train	ENTITY
+evaluate	ENTITY
+models	ENTITY
+https://github.com/
+tensorflow/tensor2tensor	ENTITY
+Nal Kalchbrenner	ENTITY
+Gouws	ENTITY
+comments	ENTITY
+corrections	ENTITY
+inspiration	ENTITY
+Jamie Ryan Kiros	ENTITY
+Geoffrey E Hinton	ENTITY
+Layer normalization	ENTITY
+arXiv preprint
+arXiv:1607.06450	ENTITY
+Dzmitry Bahdanau	ENTITY
+Kyunghyun Cho	ENTITY
+Yoshua Bengio	ENTITY
+Neural machine	ENTITY
+translation	ENTITY
+align	ENTITY
+translate	ENTITY
+CoRR	ENTITY
+abs/1409.0473	ENTITY
+Denny	ENTITY
+Britz	ENTITY
+Anna Goldie	ENTITY
+Minh-Thang	ENTITY
+Quoc	ENTITY
+exploration	ENTITY
+neural
+machine	ENTITY
+CoRR	ENTITY
+Jianpeng Cheng	ENTITY
+Li	ENTITY
+Mirella Lapata	ENTITY
+short-term	ENTITY
+memory-networks	ENTITY
+machine
+	ENTITY
+arXiv preprint arXiv:1601.06733	ENTITY
+Kyunghyun Cho	ENTITY
+Caglar Gulcehre	ENTITY
+Fethi Bougares	ENTITY
+Holger Schwenk	ENTITY
+Yoshua Bengio	ENTITY
+Learning phrase representations	ENTITY
+encoder-decoder	ENTITY
+statistical
+	ENTITY
+translation	ENTITY
+CoRR	ENTITY
+Francois Chollet	ENTITY
+Xception	ENTITY
+Deep learning	ENTITY
+arXiv
+preprint arXiv:1610.02357	ENTITY
+Junyoung Chung	ENTITY
+Çaglar Gülçehre	ENTITY
+Kyunghyun Cho	ENTITY
+Yoshua Bengio	ENTITY
+Empirical evaluation
+	ENTITY
+gated	ENTITY
+neural networks	ENTITY
+sequence modeling	ENTITY
+CoRR	ENTITY
+Chris Dyer	ENTITY
+Adhiguna	ENTITY
+Kuncoro	ENTITY
+Miguel Ballesteros	ENTITY
+Noah A. Smith	ENTITY
+neural
+network grammars	ENTITY
+NAACL	ENTITY
+Michael Auli	ENTITY
+Denis	ENTITY
+Yarats	ENTITY
+Yann N. Dauphin	ENTITY
+tional sequence	ENTITY
+sequence learning	ENTITY
+arXiv preprint arXiv:1705.03122v2	ENTITY
+Generating sequences	ENTITY
+neural networks	ENTITY
+Xiangyu Zhang	ENTITY
+Jian	ENTITY
+Deep residual learning	ENTITY
+IEEE	ENTITY
+Computer Vision	ENTITY
+Pattern
+Recognition	ENTITY
+pages	ENTITY
+Sepp Hochreiter	ENTITY
+Yoshua Bengio	ENTITY
+Paolo Frasconi	ENTITY
+Jürgen Schmidhuber	ENTITY
+Gradient flow	ENTITY
+difficulty	ENTITY
+learning	ENTITY
+long-term	ENTITY
+dependencies	ENTITY
+Sepp Hochreiter	ENTITY
+Jürgen Schmidhuber	ENTITY
+short-term	ENTITY
+memory	ENTITY
+Neural computation	ENTITY
+Zhongqiang	ENTITY
+Huang	ENTITY
+Mary Harper	ENTITY
+PCFG	ENTITY
+latent	ENTITY
+languages	ENTITY
+Conference	ENTITY
+Empirical Methods	ENTITY
+Natural
+	ENTITY
+pages	ENTITY
+ACL	ENTITY
+Rafal Jozefowicz	ENTITY
+Oriol Vinyals	ENTITY
+Mike Schuster	ENTITY
+Noam Shazeer	ENTITY
+Yonghui Wu	ENTITY
+language	ENTITY
+modeling	ENTITY
+arXiv preprint arXiv:1602.02410	ENTITY
+Łukasz Kaiser	ENTITY
+Samy Bengio	ENTITY
+active memory replace	ENTITY
+Neural
+Information Processing Systems	ENTITY
+NIPS	ENTITY
+Łukasz Kaiser and Ilya	ENTITY
+Sutskever	ENTITY
+Neural	ENTITY
+GPUs	ENTITY
+algorithms	ENTITY
+International Conference
+	ENTITY
+Learning Representations	ENTITY
+ICLR	ENTITY
+Lasse Espeholt	ENTITY
+Karen Simonyan	ENTITY
+Aaron van den Oord	ENTITY
+Ko-
+ray Kavukcuoglu	ENTITY
+Neural machine	ENTITY
+translation	ENTITY
+linear time	ENTITY
+arXiv preprint arXiv:1610.10099v2	ENTITY
+Carl Denton	ENTITY
+Hoang	ENTITY
+Alexander	ENTITY
+M. Rush	ENTITY
+networks	ENTITY
+International Conference	ENTITY
+Learning Representations	ENTITY
+Diederik Kingma	ENTITY
+Jimmy Ba	ENTITY
+method	ENTITY
+stochastic	ENTITY
+optimization	ENTITY
+ICLR	ENTITY
+Oleksii Kuchaiev	ENTITY
+Boris Ginsburg	ENTITY
+Factorization tricks	ENTITY
+LSTM	ENTITY
+networks	ENTITY
+arXiv preprint
+arXiv:1703.10722	ENTITY
+Lin	ENTITY
+Minwei Feng	ENTITY
+Cicero Nogueira dos	ENTITY
+Santos	ENTITY
+Mo	ENTITY
+Bing Xiang	ENTITY
+Bowen
+	ENTITY
+Zhou	ENTITY
+Yoshua Bengio	ENTITY
+self-attentive	ENTITY
+embedding	ENTITY
+arXiv preprint
+	ENTITY
+arXiv:1703.03130	ENTITY
+Minh-Thang	ENTITY
+Quoc	ENTITY
+Oriol Vinyals	ENTITY
+Lukasz Kaiser	ENTITY
+Multi-task
+sequence	ENTITY
+sequence learning	ENTITY
+arXiv preprint	ENTITY
+Minh-Thang	ENTITY
+Hieu Pham	ENTITY
+Christopher D Manning	ENTITY
+neural machine	ENTITY
+translation	ENTITY
+arXiv preprint	ENTITY
+Mary Ann Marcinkiewicz	ENTITY
+Beatrice Santorini	ENTITY
+corpus	ENTITY
+english	ENTITY
+penn	ENTITY
+treebank	ENTITY
+Computational linguistics	ENTITY
+McClosky	ENTITY
+Eugene Charniak	ENTITY
+parsing	ENTITY
+Proceedings	ENTITY
+Human Language Technology	ENTITY
+Conference	ENTITY
+NAACL	ENTITY
+ACL	ENTITY
+Ankur Parikh	ENTITY
+Oscar Täckström	ENTITY
+Jakob	ENTITY
+decomposable	ENTITY
+Empirical Methods	ENTITY
+Natural Language	ENTITY
+Processing	ENTITY
+Caiming	ENTITY
+Richard Socher	ENTITY
+deep reinforced model	ENTITY
+abstractive	ENTITY
+summarization	ENTITY
+arXiv preprint arXiv:1705.04304	ENTITY
+Petrov	ENTITY
+Leon Barrett	ENTITY
+Romain Thibaux	ENTITY
+Dan Klein	ENTITY
+Learning accurate	ENTITY
+compact	ENTITY
+interpretable tree annotation	ENTITY
+Computational	ENTITY
+Linguistics	ENTITY
+Annual	ENTITY
+Meeting	ENTITY
+ACL	ENTITY
+pages	ENTITY
+ACL	ENTITY
+Ofir Press	ENTITY
+Lior Wolf	ENTITY
+language models	ENTITY
+arXiv
+preprint arXiv:1608.05859	ENTITY
+Barry Haddow	ENTITY
+Alexandra Birch	ENTITY
+Neural machine	ENTITY
+translation	ENTITY
+rare	ENTITY
+words
+with	ENTITY
+subword units	ENTITY
+arXiv preprint arXiv:1508.07909	ENTITY
+Shazeer	ENTITY
+Azalia Mirhoseini	ENTITY
+Krzysztof Maziarz	ENTITY
+Andy Davis	ENTITY
+Quoc	ENTITY
+Geoffrey Hinton	ENTITY
+Jeff Dean	ENTITY
+neural networks	ENTITY
+sparsely-gated	ENTITY
+arXiv preprint arXiv:1701.06538	ENTITY
+Nitish Srivastava	ENTITY
+Geoffrey E Hinton	ENTITY
+Alex Krizhevsky	ENTITY
+Ruslan	ENTITY
+Salakhutdi-
+nov. Dropout	ENTITY
+neural networks	ENTITY
+overfitting	ENTITY
+Machine
+Learning	ENTITY
+Sainbayar Sukhbaatar	ENTITY
+Arthur Szlam	ENTITY
+Rob Fergus	ENTITY
+End-to-end memory
+	ENTITY
+networks	ENTITY
+C. Cortes	ENTITY
+M. Sugiyama	ENTITY
+R. Garnett	ENTITY
+editors	ENTITY
+Advances	ENTITY
+Neural Information Processing Systems	ENTITY
+Curran	ENTITY
+Sutskever	ENTITY
+Oriol Vinyals	ENTITY
+Quoc VV	ENTITY
+sequence learning	ENTITY
+neural
+networks	ENTITY
+Neural Information Processing Systems	ENTITY
+pages	ENTITY
+Christian	ENTITY
+Vincent Vanhoucke	ENTITY
+Sergey Ioffe	ENTITY
+Jonathon Shlens	ENTITY
+Zbigniew	ENTITY
+Rethinking	ENTITY
+inception	ENTITY
+architecture	ENTITY
+computer vision	ENTITY
+CoRR	ENTITY
+abs/1512.00567	ENTITY
+Koo	ENTITY
+Petrov	ENTITY
+Sutskever	ENTITY
+Hinton	ENTITY
+Grammar	ENTITY
+foreign language	ENTITY
+Advances	ENTITY
+Neural Information Processing Systems	ENTITY
+Mike Schuster	ENTITY
+Quoc V	ENTITY
+Mohammad Norouzi	ENTITY
+Wolfgang
+Macherey	ENTITY
+Maxim Krikun	ENTITY
+Qin Gao	ENTITY
+Klaus Macherey	ENTITY
+Google’s	ENTITY
+neural machine	ENTITY
+Bridging	ENTITY
+gap	ENTITY
+human	ENTITY
+machine	ENTITY
+translation	ENTITY
+arXiv preprint
+arXiv:1609.08144	ENTITY
+Xuguang Wang	ENTITY
+Peng Li	ENTITY
+Wei Xu	ENTITY
+Deep recurrent models	ENTITY
+connections	ENTITY
+neural machine	ENTITY
+translation	ENTITY
+CoRR	ENTITY
+Min Zhang	ENTITY
+Jingbo	ENTITY
+Zhu	ENTITY
+Fast	ENTITY
+accurate	ENTITY
+shift-reduce	ENTITY
+constituent	ENTITY
+Annual	ENTITY
+Meeting	ENTITY
+ACL	ENTITY
+Volume
+1	ENTITY
+Long Papers	ENTITY
+pages	ENTITY
+ACL	ENTITY
+attention	ENTITY
+mechanism	ENTITY
+long-distance dependencies	ENTITY
+self-attention	ENTITY
+layer	ENTITY
+attention	ENTITY
+attend	ENTITY
+distant dependency	ENTITY
+phrase	ENTITY
+difficult	ENTITY
+’	ENTITY
+Attentions	ENTITY
+colors	ENTITY
+heads	ENTITY
+color	ENTITY
+attention	ENTITY
+heads	ENTITY
+layer	ENTITY
+anaphora	ENTITY
+resolution	ENTITY
+Full attentions	ENTITY
+head 5	ENTITY
+Isolated attentions	ENTITY
+word	ENTITY
+attention	ENTITY
+attentions	ENTITY
+word	ENTITY
+attention heads	ENTITY
+behaviour	ENTITY
+structure	ENTITY
+examples	ENTITY
+heads	ENTITY
+encoder	ENTITY
+self-attention
+	ENTITY
+layer	ENTITY
+heads	ENTITY
+learned	ENTITY
+tasks	ENTITY

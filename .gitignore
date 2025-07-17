@@ -1,0 +1,13 @@
+/.venv
+/outputs
+/lib
+/outputs/*.txt
+/__pycache__
+/dataset
+graph.html
+test.py
+/venv
+batch_0.json
+**/.env
+*.env
+
