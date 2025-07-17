@@ -11,3 +11,5 @@ batch_0.json
 **/.env
 *.env
 
+misc/
+

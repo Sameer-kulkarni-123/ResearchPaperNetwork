@@ -2,12 +2,14 @@ import json
 import time
 import requests
 import numpy as np
+import os
 from collections import defaultdict
 from tqdm import tqdm
 
-INPUT_JSON = "batch_0.json"
-HIERARCHY_JSON = "fos_hierarchy.json"
-SIM_MATRIX_FILE = "fos_similarity_matrix_batch0.npy"
+CURR_DIR = os.path.dirname(os.path.abspath(__file__))
+INPUT_JSON = os.path.join(CURR_DIR, "batch_0.json")
+HIERARCHY_JSON = os.path.join(CURR_DIR, "fos_hierarchy.json")
+SIM_MATRIX_FILE = os.path.join(CURR_DIR, "fos_similarity_matrix_batch0.npy")
 
 # --------------------------
 # Step 1: Extract all unique FOS
@@ -29,13 +31,15 @@ print(f"🧠 Found {len(fos_list)} unique FOS tags.")
 # --------------------------
 base_url = "https://api.openalex.org/concepts?filter=display_name.search:"
 fos_hierarchy = defaultdict(list)
+NUM_TOP_FOS = 500
 
 print("🔍 Querying OpenAlex for FOS parent relationships...")
-for fos in tqdm(fos_list):
+for fos in tqdm(fos_list[:NUM_TOP_FOS]):  # Limit to top 500
     try:
         time.sleep(1.0)  # be polite
         response = requests.get(base_url + requests.utils.quote(fos))
         data = response.json()
+
         if "results" in data and data["results"]:
             top_result = data["results"][0]
             ancestors = top_result.get("ancestors", [])
