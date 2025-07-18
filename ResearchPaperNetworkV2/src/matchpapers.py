@@ -63,7 +63,8 @@ def recommend_top_k(paper_idx, k=5):
             "index": idx,
             "title": papers[idx].get("title", "Unknown"),
             "score": round(scores[idx], 4),
-            "fos": papers[idx].get("fos", [])
+            "fos": papers[idx].get("fos", []),
+            "url": papers[idx].get("url")
         })
     return results
 
