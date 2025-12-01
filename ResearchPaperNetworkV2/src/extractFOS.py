@@ -1,6 +1,9 @@
 import fitz  # PyMuPDF
 import re
-import google.generativeai as genai
+# import google.generativeai as genai
+from google import genai
+
+
 
 def extract_abstract_from_pdf(doc, max_pages=2):
     text = ""
@@ -24,7 +27,7 @@ def extract_abstract_from_pdf(doc, max_pages=2):
         return None
 
 def get_fos_from_abstract(abstract, api_key):
-    genai.configure(api_key=api_key)
+    client = genai.Client(api_key=api_key)
     
     prompt = f"""
         You are an AI assistant trained to classify academic abstracts. 
@@ -38,8 +41,13 @@ def get_fos_from_abstract(abstract, api_key):
         end the output with fos
         """
 
-    model = genai.GenerativeModel("gemini-1.5-flash")
-    response = model.generate_content(prompt)
+    # model = genai.GenerativeModel("gemini-1.5-flash")
+    # response = model.generate_content(prompt)
+
+    response = client.models.generate_content(
+        model="gemini-2.5-flash", 
+        contents=prompt
+    )
 
     try:
         tags = eval(response.text.strip())

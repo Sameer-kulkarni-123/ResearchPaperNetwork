@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from src.matchpapers import match_papers, find_best_match, recommend_top_k, papers # Ensure 'papers' is correctly imported and available
 
 load_dotenv()
-api_key = os.getenv("FOS_API_KEY")
+api_key = os.getenv("GEMINI_API_KEY")
 
 # --- Custom CSS for beautification ---
 st.markdown(
@@ -272,7 +272,7 @@ if uploaded_file is not None:
                 st.write(f"FOS: {p['fos']}")
 
         with tab2:
-            st.subheader("Top 5 Recommended Papers (by FOS Hierarchy Similarity):")
+            st.subheader("Top 5 Recommended Papers (by FOS Similarity):")
             if results["fos_tags"] and fos_hierarchy:
                 uploaded_combined_fos = set(get_all_related_fos(results["fos_tags"], fos_hierarchy))
                 if uploaded_combined_fos:
