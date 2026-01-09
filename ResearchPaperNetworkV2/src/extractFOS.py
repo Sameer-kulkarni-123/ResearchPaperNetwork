@@ -37,7 +37,7 @@ def get_fos_from_abstract(abstract, api_key):
         "Physics", "Education", "Pedagogy", etc.
 
         Abstract:
-        \"\"\"{abstract}\"\"\" 
+        {abstract}
         end the output with fos
         """
 
@@ -48,12 +48,14 @@ def get_fos_from_abstract(abstract, api_key):
         model="gemini-2.5-flash", 
         contents=prompt
     )
+    print(response.text)
+    print(response.text[:-3])
 
     try:
         tags = eval(response.text.strip())
         if isinstance(tags, list):
             return tags
-    except:
-        pass
+    except Exception as e:
+        raise(e)
 
     return ["Unknown"]  # fallback
